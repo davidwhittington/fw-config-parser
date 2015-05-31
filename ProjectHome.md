@@ -1,0 +1,3 @@
+This project was born out of the frustration with a lack of convenient rulebase parser for Sidewinder firewalls. I've had experience of the Checkpoint Firewall-1 cpdb2html parser and cprules scripts which convert a Checkpoint policy to an HTML file for easy reading. This project aims to do something similar for any other firewall rulebase. In addition, it should give a flexible expansion method permitting the developer to re-use the system in an appropriate way for their requirements.
+
+Please see the wiki page HowToUseThisTool for more usage details
